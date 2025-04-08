@@ -1,3 +1,17 @@
 #EXTM3U
 #EXTINF:-1,Universal Channel 1
 http://190.108.85.154:8000/play/a05j/index.m3u8
+#EXTINF:-1,Universal Channel 2
+http://181.176.153.104:8090/play/a142/index.m3u8
+#EXTINF:-1,Universal Channel 3
+http://190.108.83.86:8000/play/a09f/index.m3u8
+#EXTINF:-1,Universal Channel 4
+http://8.243.64.35:8002/play/a038/index.m3u8
+#EXTINF:-1,Universal Channel 5
+http://190.107.20.43:6004/play/a07k.m3u8
+#EXTINF:-1,Universal Channel 6
+http://45.173.229.190:8083/play/a0h4/index.m3u8
+#EXTINF:-1,Universal Channel 7
+http://181.174.228.106:8001/play/a0j2/index.m3u8
+#EXTINF:-1,Universal Channel 8
+http://45.71.37.194:8010/play/a0bm/index.m3u8
