@@ -1,9 +1,39 @@
 #EXTM3U
-#EXTINF:-1,Universal Channel 1
-http://8.243.64.35:8002/play/a038/index.m3u8
-#EXTINF:-1,Universal Channel 2
-http://45.173.229.190:8083/play/a0h4/index.m3u8
-#EXTINF:-1,Universal Channel 3
-http://181.174.228.106:8001/play/a0j2/index.m3u8
-#EXTINF:-1,Universal Channel 4
-http://45.71.37.194:8010/play/a0bm/index.m3u8
+#EXTINF:-1 group-title="AXN",AXN
+http://187.245.231.226:8000/play/a0lu/index.m3u8
+#EXTINF:-1 group-title="AXN",AXN HD
+http://187.245.231.226:8000/play/a0uk/index.m3u8
+#EXTINF:-1 group-title="UNIVERSAL",Universal
+http://187.245.231.226:8000/play/a0uc/index.m3u8
+#EXTINF:-1 group-title="AXN",AXN HD
+http://181.224.200.5:2277/play/a01h/index.m3u8
+#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CHANNEL HD
+http://181.224.200.5:2277/play/a0ak/index.m3u8
+#EXTINF:-1 group-title="AXN",AXN
+http://190.151.80.242:9990/play/a0lk/index.m3u8
+#EXTINF:-1 group-title="USA",USA
+http://190.151.80.242:9990/play/a0le/index.m3u8
+#EXTINF:-1 group-title="UNIVERSAL",Universal
+http://190.151.80.242:9990/play/a0ky/index.m3u8
+#EXTINF:-1 group-title="AXN",3036 AXN
+http://45.177.21.6:9000/play/a014
+#EXTINF:-1 group-title="UNIVERSAL",3040 UNIVERSAL CHANEL
+http://45.177.21.6:9000/play/a020
+#EXTINF:-1 group-title="AXN",AXN
+http://45.171.64.30:8800/play/a049
+#EXTINF:-1 group-title="AXN",AXN HD
+http://45.171.64.30:8800/play/a07a
+#EXTINF:-1 group-title="UNIVERSAL",Universal
+http://45.171.64.30:8800/play/a06u
+#EXTINF:-1 group-title="AXN",AXN
+http://45.171.64.30:6060/play/a01y/index.m3u8
+#EXTINF:-1 group-title="AXN",AXN HD
+http://45.171.64.30:6060/play/a04m/index.m3u8
+#EXTINF:-1 group-title="UNIVERSAL",Universal
+http://45.171.64.30:6060/play/a046/index.m3u8
+#EXTINF:-1 group-title="UNIVERSAL",206 Universal
+http://45.171.64.30:2000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="AXN",222 AXN
+http://45.171.64.30:2000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="UNIVERSAL",Universal Channel
+http://45.167.2.138:8000/play/a0o3/index.m3u8
