@@ -1,34 +1,51 @@
 #EXTM3U
-#EXTINF:-1 group-title="usa",USA Network
-http://181.209.105.115:2525/play/usanetwork/index.m3u8
-#EXTINF:-1 group-title="universal",Universal HD
-http://181.209.105.115:2525/play/universal/index.m3u8
+#EXTINF:-1 group-title="13",Canal 13 HD
+http://200.123.40.1:8000/play/a06z/index.m3u8
+#EXTINF:-1 group-title="universal"group-title="universal",UNIVERSAL CHANNEL HD
+http://200.123.40.1:8000/play/a0ap/index.m3u8
+#EXTINF:11 group-title="axn",AXN
+http://154.12.107.98:8000/play/a09r
+#EXTINF:11 group-title="universal",UNIVERSAL TV
+http://154.12.107.98:8000/play/a07r
+#EXTINF:-1 group-title="axn",AXN
+http://181.78.83.28:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="axn",AXN HD
+http://181.78.83.28:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="universal",UNIVERSAL CHANNEL HD
+http://181.78.83.28:8000/play/a05n/index.m3u8
+#EXTINF:-1 group-title="usa",USA SD
+http://181.78.83.28:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="axn", AXN
+http://streamer.metronethn.com/AXN/index.m3u8
+#EXTINF:-1 group-title="universal", Universal TV (Transcoder)
+http://transcoder.metronethn.com/Universal/index.m3u8
+#EXTINF:-1 group-title="USA", USA Network
+http://streamer.metronethn.com/USA/index.m3u8
+#EXTINF:-1 group-title="axn",AXN HD
+http://138.197.18.137:8072/play/a0fn/index.m3u8
+#EXTINF:-1 group-title="13",Canal 13 HD
+http://138.197.18.137:8072/play/a0f5/index.m3u8
+#EXTINF:-1 group-title="universal",UNIVERSAL CHANNEL HD
+http://138.197.18.137:8072/play/a0gx/index.m3u8
+#EXTINF:-1 group-title="usa",USA
+http://138.197.18.137:8072/play/a0h6/index.m3u8
 #EXTINF:-1 group-title="axn",AXN HD
 http://181.209.105.115:2525/play/axn/index.m3u8
-#EXTINF:-1 group-title="universal",401 Universal
-http://181.65.191.173:8069/play/a03s
-#EXTINF:-1 group-title="axn",402 AXN
-http://181.65.191.173:8069/play/a02a
-#EXTINF:-1 group-title="axn",656 AXN HD
-http://181.65.191.173:8069/play/a03y
-#EXTINF:-1 group-title="universal",UNIVERSAL TV HD
-http://181.65.191.173:8069/play/a0gl
-#EXTINF:-1 group-title="axn",AXN
-http://190.83.85.68:80/axn/index.m3u8
-#EXTINF:-1 group-title="axn",AXN
-http://38.19.16.151:8000/play/a0ni
+#EXTINF:-1 group-title="universal",UNIVERSAL HD
+http://181.209.105.115:2525/play/universal/index.m3u8
+#EXTINF:-1 group-title="13",el trece HD
+http://181.209.105.115:2525/play/eltrece/index.m3u8
 #EXTINF:-1 group-title="axn",AXN HD
-http://38.19.16.151:8000/play/a054
-#EXTINF:-1 group-title="estrellas",#03 Canal Las Estrellas
-http://190.90.154.112:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="estrellas",#25 Las Estrellas HD
-http://190.90.154.112:8000/play/a00v/index.m3u8
+http://190.108.91.206:9050/play/a04c/index.m3u8
+#EXTINF:-1 group-title="13",Canal 13 HD
+http://190.108.91.206:9050/play/a02v/index.m3u8
+#EXTINF:-1 group-title="universal",UNIVERSAL CHANNEL HD
+http://190.108.91.206:9050/play/a031/index.m3u8
+#EXTINF:-1 group-title="usa",USA
+http://190.108.91.206:9050/play/a00v/index.m3u8
 #EXTINF:0 group-title="axn",AXN
-#EXTVLCOPT:network-caching=1000
-http://186.33.57.220:8000/play/a10j/index.m3u8
+http://200.57.28.141:8540/play/a01z
 #EXTINF:0 group-title="axn",AXN HD
-#EXTVLCOPT:network-caching=1000
-http://181.78.197.59:8000/play/a072/index.m3u8
-#EXTINF:0 group-title="estrellas",Las Estrellas HD
-#EXTVLCOPT:network-caching=1000
-http://181.78.197.59:8000/play/a09j/index.m3u8
+http://200.57.28.141:8540/play/a060
+#EXTINF:0group-title="universal",UNIVERSAL TV
+http://200.57.28.141:8540/play/a05r
